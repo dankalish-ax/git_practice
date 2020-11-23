@@ -2,7 +2,7 @@
 
 
 class RunIt:
-    #TODO: Test for initial commit
+    #TODO: Test for initial
     def __init__(self):
         self.motors = None
         self.props = None
