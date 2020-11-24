@@ -2,7 +2,7 @@
 
 
 class RunIt:
-    #TODO: Test for initial
+    #TODO: Test for initial commit with new ssh key pair
     def __init__(self):
         self.motors = None
         self.props = None
