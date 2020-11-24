@@ -6,7 +6,7 @@ class RunIt:
     # TODO: merged the main with unrelated histories. does it work?
 
     def __init__(self):
-        self.motors = None
+        self.motors = 4
         self.props = None
 
     def set_motors(self, motors):
