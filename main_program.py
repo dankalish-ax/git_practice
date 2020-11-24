@@ -3,7 +3,7 @@
 
 class RunIt:
     #TODO: Test for initial commit with new ssh key pair
-    # TODO: merged the main with unrelated histories and now testing to see if it works
+    # TODO: merged the main with unrelated histories. does it work?
 
     def __init__(self):
         self.motors = None
